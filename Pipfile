@@ -17,6 +17,7 @@ pillow = "*"
 matplotlib = "*"
 opencv-python = "*"
 nbconvert = "*"
+tqdm = "*"
 
 [dev-packages]
 
